@@ -44,8 +44,10 @@ npm run dev
 ````
 
 Can login in admin page with:
-admin@example.com
-password
+
+login: admin@example.com
+
+password: password
 ## Help
 
 Laravel 11
