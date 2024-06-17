@@ -34,11 +34,18 @@ DB_PASSWORD=password
 php artisan key:generate
 ````
 ````
+php artisan migrate --seed
+````
+````
 php artisan serve
 ````
 ````
 npm run dev
 ````
+
+Can login in admin page with:
+admin@example.com
+password
 ## Help
 
 Laravel 11
